@@ -1,3 +1,3 @@
-# quis-ut-deus.github.io
+# michael-elomar.github.io
 
 Personal website for projects and tutorials.
